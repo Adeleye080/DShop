@@ -155,4 +155,5 @@ MIT
 
 ---
 
-*Built with ❤️ by the [Ajiboye Pius](https://github.com/Adeleye080)* 
+*Built with ❤️ by [Ajiboye Pius](https://github.com/Adeleye080)*
+**Please star this repository 🌟**
