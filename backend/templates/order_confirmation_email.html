@@ -1,0 +1,19 @@
+<html>
+  <body>
+    <h2>Order Confirmation</h2>
+    <p>Dear {{ full_name }},</p>
+    <p>
+      Thank you for your order! Your order <b>#{{ order_id }}</b> has been
+      received and is being processed.
+    </p>
+    <p>Order Details:</p>
+    <ul>
+      {% for item in items %}
+      <li>{{ item.name }} (x{{ item.quantity }}) - ${{ item.price }}</li>
+      {% endfor %}
+    </ul>
+    <p>Total: <b>${{ total }}</b></p>
+    <p>We will notify you when your order ships.</p>
+    <p>Best regards,<br />E-commerce Team</p>
+  </body>
+</html>

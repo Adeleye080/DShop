@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Verify Your Email</title>
+  </head>
+  <body>
+    <h2>Welcome to Our E-commerce Platform!</h2>
+    <p>Hi {{ full_name or email }},</p>
+    <p>
+      Thank you for registering. Please verify your email address by clicking
+      the link below:
+    </p>
+    <p><a href="{{ verify_url }}">Verify Email</a></p>
+    <p>If you did not sign up, you can ignore this email.</p>
+    <br />
+    <p>Best regards,<br />The E-commerce Team</p>
+  </body>
+</html>
