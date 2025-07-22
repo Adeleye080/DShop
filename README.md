@@ -37,21 +37,21 @@ graph TD;
 ## Tech Stack
 
 ### Frontend
-- **React 19**
-- **Tailwind CSS 4**
-- **Vite**
-- **Axios**
-- **Formik & Yup**
-- **ESLint**
+- [x] **React 19**
+- [x] **Tailwind CSS 4**
+- [x] **Vite**
+- [x] **Axios**
+- [x] **Formik & Yup**
+- [x] **ESLint**
 
 ### Backend
-- **FastAPI**
-- **SQLAlchemy & Alembic**
-- **Pydantic**
-- **Stripe, PayPal SDKs**
-- **Jinja2 (emails)**
-- **Mailtrap (dev email)**
-- **Uvicorn (ASGI server)**
+- [x] **FastAPI**
+- [x] **SQLAlchemy & Alembic**
+- [x] **Pydantic**
+- [x] **Stripe, PayPal SDKs**
+- [x] **Jinja2 (emails)**
+- [x] **Mailtrap (dev email)**
+- [x] **Uvicorn (ASGI server)**
 
 ---
 
