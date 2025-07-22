@@ -64,8 +64,8 @@ graph TD;
 
 ### 1. Clone the Repository
 ```bash
-git clone <repo-url>
-cd ecommerce
+git clone https://github.com/Adeleye080/DShop.git
+cd DShop
 ```
 
 ### 2. Backend Setup
