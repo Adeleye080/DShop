@@ -4,6 +4,8 @@
 
 DShop is a modern, full-stack e-commerce platform designed for scalability, security, and a seamless user experience. It features a professional React/Tailwind CSS frontend and a robust FastAPI backend, supporting advanced authentication, payments, inventory, and admin management. Built for rapid development and enterprise deployment, DShop is ideal for startups and organizations seeking a production-ready commerce solution.
 
+> *frontend coming soon...*
+
 ---
 
 ## Features
